@@ -2,7 +2,12 @@
 ## PROJETO: GALERIA IMPACTO PERIFÉRICO
 
 ## APRESENTAÇÃO
+
+### Slide
 https://www.canva.com/design/DAFhhE5QBlw/-FbZ9NeWDWhHsOJYarSqrg/edit?utm_content=DAFhhE5QBlw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+### Video
+https://www.canva.com/design/DAFhhE5QBlw/R9mnShHFoOATuAGyZYqk5Q/view?utm_content=DAFhhE5QBlw&utm_campaign=designshare&utm_medium=link&utm_source=recording_view
 
 ### SUMÁRIO/ENTREGAS:
 1. Slide de Apresentação
