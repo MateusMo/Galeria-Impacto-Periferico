@@ -117,4 +117,8 @@ Com o intuito de ampliar a visibilidade e a representatividade de artistas perte
 Trata-se de uma galeria de arte digital onde serão disponibilizadas obras de artistas plásticos de periferias urbanas e outras minorias sociais. A galeria oferece um espaço para artistas emergentes e estabelecidos exporem suas obras, em um ambiente seguro pela blockchain e inclusivo por seus ideais, que utiliza a tecnologia NFT para registros e distribuição de recursos pela venda via blockchain através de contratos inteligentes. Focada em artistas de periferias urbanas e outras minorias 70% das vendas das NFTs vai para os artistas e 30 % volta para o fundo da galeria focado em projetos sociais e na aceleração de artistas em estágio inicial
 Além das exposições de arte, a galeria Impacto Periférico também promoverá eventos em parceria com galerias físicas que partilhem da visão de que todos devem ser e se sentir representados em todos os espaços. A Galeria também se propõe a acelerar artistas em estágio inicial e também oferecerá incentivo para projetos artísticos e culturais para as comunidades dos artistas da galeria, incentivando o envolvimento e a participação da população local.
 
+## Front-End Goal
+![landing](https://user-images.githubusercontent.com/71354894/235340074-61521601-28ba-4ea2-a95f-e2387b264f98.jpeg)
+
+
 
