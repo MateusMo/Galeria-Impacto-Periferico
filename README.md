@@ -1,5 +1,8 @@
 # COMUNICAÇÃO DO PROJETO 
-##PROJETO: GALERIA IMPACTO PERIFÉRICO
+## PROJETO: GALERIA IMPACTO PERIFÉRICO
+
+## APRESENTAÇÃO
+https://www.canva.com/design/DAFhhE5QBlw/-FbZ9NeWDWhHsOJYarSqrg/edit?utm_content=DAFhhE5QBlw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ### SUMÁRIO/ENTREGAS:
 1. Slide de Apresentação
