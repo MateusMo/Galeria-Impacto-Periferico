@@ -118,7 +118,8 @@ Trata-se de uma galeria de arte digital onde serão disponibilizadas obras de ar
 Além das exposições de arte, a galeria Impacto Periférico também promoverá eventos em parceria com galerias físicas que partilhem da visão de que todos devem ser e se sentir representados em todos os espaços. A Galeria também se propõe a acelerar artistas em estágio inicial e também oferecerá incentivo para projetos artísticos e culturais para as comunidades dos artistas da galeria, incentivando o envolvimento e a participação da população local.
 
 ## Front-End Goal
-![landing](https://user-images.githubusercontent.com/71354894/235340074-61521601-28ba-4ea2-a95f-e2387b264f98.jpeg)
+![landing2](https://user-images.githubusercontent.com/71354894/235340218-f839ff23-ab1e-4ab9-ab4c-f661e4eef863.jpeg)
+
 
 
 
