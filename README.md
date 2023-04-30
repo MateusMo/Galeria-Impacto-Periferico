@@ -9,36 +9,36 @@
 
 ## 1. SLIDE DE APRESENTAÇÃO
 PPT + Vídeo
- -Introdução (Problema e Solução)
+ - Introdução (Problema e Solução)
  
 ## Slide 1 - Logo e Nome 
--Galeria de Impacto Periférico | Impact Peripheral Gallery
+- Galeria de Impacto Periférico | Impact Peripheral Gallery
 
 ## Slide 2 - Problema | About Gallery Artist
--68,82% dos artistas de galerias são homens, 75,37%, são da capital, 92,56% são brancos | 68.82% of gallery artists are men, 75.37% are from the capital, 92.56% are white
+- 68,82% dos artistas de galerias são homens, 75,37%, são da capital, 92,56% são brancos | 68.82% of gallery artists are men, 75.37% are from the capital, 92.56% are white
 https://projetoafro.com/editorial/artigo/negrestudo-mapeamento-artistas-representades-pelas-galerias-de-arte-de-sao-paulo/
 
 ## Slide 3 - Solução
--ODS 10 - Redução das Desigualdades | ODS 10 - reduced inequalities 
--Galeria de impacto periférico - focada em reduzir desigualdades no mercado de belas artes
--Significado de periférico - 1. Situado na periferia. · 2. Relativo a periferia. · 3. Que está afastado do centro. · 4. Que não é o mais importante.
--Desenvolvimento (Solução Tecnológica e MEAL)
+- ODS 10 - Redução das Desigualdades | ODS 10 - reduced inequalities 
+- Galeria de impacto periférico - focada em reduzir desigualdades no mercado de belas artes
+- Significado de periférico - 1. Situado na periferia. · 2. Relativo a periferia. · 3. Que está afastado do centro. · 4. Que não é o mais importante.
+- Desenvolvimento (Solução Tecnológica e MEAL)
 
 ## Slide 4 - Tecnológico
 
 ## Slide 5 - MEAL 
--Missão -
--Valor -
--Visão -
+- Missão 
+- Valor 
+- Visão 
 
 ## Slide 6 - Rodmap
--Ideação
--Prototipação
--Busca por parceiros
--Desenvolvimento
--Teste
--Implantação 
--Divulgação
+- Ideação
+- Prototipação
+- Busca por parceiros
+- Desenvolvimento
+- Teste
+- Implantação 
+- Divulgação
 
 ## 2. TEXTO FRONT
 ## Página Inicial - 
@@ -84,21 +84,21 @@ A segregação no mercado de belas artes pode ter um impacto significativo na ca
 Trata-se de uma galeria de arte digital que utiliza a tecnologia NFT para registros e distribuição de recursos pela venda via blockchain através de contratos inteligentes. Focada em artistas de periferias urbanas e outras minorias
 
 ## Business Canvas da proposta de solução
--Justificativa - A segregação no mercado de belas artes tende a privilegiar artistas com maior capital cultural e econômico, na maiorias das vezes, de origem branca e europeia, deixando de lado artistas pertencentes a minoria que têm seus acessos aos espaços convencionais de arte negados pelo preconceito e o racismo estrutural. | Justification - Segregation in the fine arts market tends to privilege artists with greater cultural and economic capital, most of the time, of white and European origin, leaving aside artists belonging to the minority who have their access to conventional art spaces denied by prejudice and structural racism.
+- Justificativa - A segregação no mercado de belas artes tende a privilegiar artistas com maior capital cultural e econômico, na maiorias das vezes, de origem branca e europeia, deixando de lado artistas pertencentes a minoria que têm seus acessos aos espaços convencionais de arte negados pelo preconceito e o racismo estrutural. | -  - Justification - Segregation in the fine arts market tends to privilege artists with greater cultural and economic capital, most of the time, of white and European origin, leaving aside artists belonging to the minority who have their access to conventional art spaces denied by prejudice and structural racism.
 
--Objetivo - Promover a valorização e a visibilidade de artistas periféricos, facilitar o acesso desses artistas a lugares fechados pelas portas do racismo, do elitismo e do preconceito. Utilizando a blokchain iremos analisar os dados coletados e partir deles iniciar projetos e iniciativas para a geração de impacto 
--Produto - Trata-se de uma galeria de arte digital que utiliza a tecnologia NFT para registros e distribuição do recursos pela venda via blockchain através de contratos inteligentes
--Benefícios - Artista: Alcance internacional | Não há necessidade de espaço físico | Rastreabilidade da obra | comprovação de autenticidade | menor custo. Sociedade: valorização da cultura marginalizada | estímulo a produção de arte
--Relacionamento com clientes/canal - Mídias Sociais | Propagandas institucionais | Participação em eventos culturais | Através do site | Email Marketing 
--Stakeholders - Artistas | Comunidades Periféricas | Curadores | Governo | Público Geral
--Parceiros chaves - Instituições de ensino | instituições culturais | organizações sem fins lucrativos | coletivos | residências artísticas | grandes artistas e curadores
--premissas - Público alvo crescente 
--Atividades chave - Marketing Digital | Prospecção de Mercado | Coleta de Dados
--riscos - Mídia negativa dos NFTs | Concorrência | Restrições orçamentárias
--Linha do tempo- Divulgação | Ideação | prototipação | Busca por parceiros | Desenvolvimento | Teste 
--Restrições - Necessidade de busca pelos artistas e Networking | Necessidade de parceiros 
--Receitas - Anúncio no site | Venda das NFTs 
--Custo - Criação e Manutenção do Software | Impostos | Colaboradores | Equipamentos 
+- Objetivo - Promover a valorização e a visibilidade de artistas periféricos, facilitar o acesso desses artistas a lugares fechados pelas portas do racismo, do elitismo e do preconceito. Utilizando a blokchain iremos analisar os dados coletados e partir deles iniciar projetos e iniciativas para a geração de impacto 
+- Produto - Trata-se de uma galeria de arte digital que utiliza a tecnologia NFT para registros e distribuição do recursos pela venda via blockchain através de contratos inteligentes
+- Benefícios - Artista: Alcance internacional | Não há necessidade de espaço físico | Rastreabilidade da obra | comprovação de autenticidade | menor custo. Sociedade: valorização da cultura marginalizada | estímulo a produção de arte
+- Relacionamento com clientes/canal - Mídias Sociais | Propagandas institucionais | Participação em eventos culturais | Através do site | Email Marketing 
+- Stakeholders - Artistas | Comunidades Periféricas | Curadores | Governo | Público Geral
+- Parceiros chaves - Instituições de ensino | instituições culturais | organizações sem fins lucrativos | coletivos | residências artísticas | grandes artistas e curadores
+- premissas - Público alvo crescente 
+- Atividades chave - Marketing Digital | Prospecção de Mercado | Coleta de Dados
+- riscos - Mídia negativa dos NFTs | Concorrência | Restrições orçamentárias
+- Linha do tempo- Divulgação | Ideação | prototipação | Busca por parceiros | Desenvolvimento | Teste 
+- Restrições - Necessidade de busca pelos artistas e Networking | Necessidade de parceiros 
+- Receitas - Anúncio no site | Venda das NFTs 
+- Custo - Criação e Manutenção do Software | Impostos | Colaboradores | Equipamentos 
 ## Backlog do produto
 
 ![image](https://user-images.githubusercontent.com/71354894/235339208-ca689d48-ee0e-45f3-b40c-c04ac3f97296.png)
